@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color:red;
+    background: yellow;
+    border: 10px solid green;
+    border-radius: 5px;
+}
+p{
+    
+    font-size:16px;
+    background: grey;
+}
+.frist{
+    background: none;
+}
